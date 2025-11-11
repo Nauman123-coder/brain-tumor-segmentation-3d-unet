@@ -2,3 +2,6 @@ dataset/
 *.pyc
 __pycache__/
 .ipynb_checkpoints/
+Saved Model/*.h5
+Saved Model/*.keras
+data/
